@@ -30,5 +30,5 @@
             with:
               token: ${{ secrets.ACCESS_TOKEN }}
               repository-name: youthtoday/youthtoday.github.io # 修改这里
-              BRANCH: master  # 如果你的仓库默认分支是 master 记得修改这里                    
+              BRANCH: main  # 如果你的仓库默认分支是 master 记得修改这里                    
               FOLDER: public
